@@ -1,0 +1,254 @@
+import streamlit as st
+import torch
+from transformers import (
+    pipeline,
+    AutoTokenizer,
+    AutoModelForSeq2SeqLM,
+    MarianMTModel,
+    MarianTokenizer
+)
+import warnings
+warnings.filterwarnings('ignore')
+
+# Cache các mô hình để tăng tốc độ tải
+@st.cache_resource
+def load_translation_models():
+    """
+    Tải tất cả các mô hình dịch và cache lại để sử dụng sau này
+    """
+    models = {}
+    
+    try:
+        # Anh -> Việt
+        models['en_vi'] = pipeline(
+            "translation_en_to_vi", 
+            model="VietAI/envit5-translation"
+        )
+    except:
+        # Fallback model
+        models['en_vi'] = pipeline(
+            "translation",
+            model="Helsinki-NLP/opus-mt-en-vi"
+        )
+    
+    try:
+        # Việt -> Anh
+        models['vi_en'] = pipeline(
+            "translation_vi_to_en", 
+            model="VietAI/envit5-translation"
+        )
+    except:
+        models['vi_en'] = pipeline(
+            "translation",
+            model="Helsinki-NLP/opus-mt-vi-en"
+        )
+    
+    try:
+        # Anh -> Trung
+        models['en_zh'] = pipeline(
+            "translation_en_to_zh",
+            model="Helsinki-NLP/opus-mt-en-zh"
+        )
+    except:
+        # Alternative model
+        models['en_zh'] = pipeline(
+            "translation",
+            model="t5-small"
+        )
+    
+    try:
+        # Trung -> Anh
+        models['zh_en'] = pipeline(
+            "translation_zh_to_en",
+            model="Helsinki-NLP/opus-mt-zh-en"
+        )
+    except:
+        models['zh_en'] = pipeline(
+            "translation",
+            model="t5-small"
+        )
+    
+    # Thêm các model cho dịch trực tiếp Việt-Trung và ngược lại
+    try:
+        # Sử dụng model đa ngôn ngữ cho các cặp ngôn ngữ không có model trực tiếp
+        models['vi_zh'] = pipeline(
+            "translation",
+            model="Helsinki-NLP/opus-mt-mul-en"
+        )
+        models['zh_vi'] = pipeline(
+            "translation", 
+            model="Helsinki-NLP/opus-mt-mul-en"
+        )
+    except:
+        # Fallback to English as pivot
+        models['vi_zh'] = None
+        models['zh_vi'] = None
+    
+    return models
+
+def translate_with_pivot(text, src_lang, tgt_lang, models):
+    """
+    Dịch sử dụng tiếng Anh làm ngôn ngữ trung gian (pivot)
+    khi không có model dịch trực tiếp
+    """
+    if src_lang == 'vi' and tgt_lang == 'zh':
+        if models['vi_zh'] is not None:
+            return models['vi_zh'](text)[0]['translation_text']
+        else:
+            # Dịch Việt -> Anh -> Trung
+            english_text = models['vi_en'](text)[0]['translation_text']
+            return models['en_zh'](english_text)[0]['translation_text']
+    
+    elif src_lang == 'zh' and tgt_lang == 'vi':
+        if models['zh_vi'] is not None:
+            return models['zh_vi'](text)[0]['translation_text']
+        else:
+            # Dịch Trung -> Anh -> Việt
+            english_text = models['zh_en'](text)[0]['translation_text']
+            return models['en_vi'](english_text)[0]['translation_text']
+    
+    else:
+        return "Phương thức dịch không được hỗ trợ"
+
+def main():
+    # Cấu hình trang
+    st.set_page_config(
+        page_title="Dịch Đa Ngôn Ngữ",
+        page_icon="🌐",
+        layout="wide"
+    )
+    
+    # Tiêu đề ứng dụng
+    st.title("🌐 Ứng Dụng Dịch Đa Ngôn Ngữ")
+    st.markdown("### Sử dụng mô hình Transformer để dịch giữa Tiếng Anh, Tiếng Việt và Tiếng Trung")
+    
+    # Hiển thị thanh tiến trình khi tải model
+    with st.spinner('Đang tải các mô hình dịch... Vui lòng chờ trong giây lát.'):
+        models = load_translation_models()
+    
+    st.success('✅ Đã tải xong tất cả mô hình dịch!')
+    
+    # Tạo layout
+    col1, col2 = st.columns([1, 1])
+    
+    with col1:
+        st.subheader("📥 Nhập văn bản cần dịch")
+        
+        # Chọn ngôn ngữ nguồn
+        src_lang = st.selectbox(
+            "Ngôn ngữ nguồn",
+            ["Tiếng Anh", "Tiếng Việt", "Tiếng Trung"],
+            key="src_lang"
+        )
+        
+        # Ánh xạ tên ngôn ngữ sang code
+        lang_map = {
+            "Tiếng Anh": "en",
+            "Tiếng Việt": "vi", 
+            "Tiếng Trung": "zh"
+        }
+        
+        # Text area cho input
+        input_text = st.text_area(
+            "Văn bản cần dịch:",
+            height=150,
+            placeholder="Nhập văn bản cần dịch tại đây..."
+        )
+    
+    with col2:
+        st.subheader("📤 Kết quả dịch")
+        
+        # Chọn ngôn ngữ đích
+        tgt_lang = st.selectbox(
+            "Ngôn ngữ đích",
+            ["Tiếng Anh", "Tiếng Việt", "Tiếng Trung"],
+            key="tgt_lang"
+        )
+        
+        # Hiển thị kết quả dịch
+        translation_placeholder = st.empty()
+    
+    # Thông tin thêm
+    with st.expander("ℹ️ Hướng dẫn sử dụng"):
+        st.markdown("""
+        ### Cách sử dụng:
+        1. **Chọn ngôn ngữ nguồn** - ngôn ngữ của văn bản gốc
+        2. **Chọn ngôn ngữ đích** - ngôn ngữ bạn muốn dịch sang
+        3. **Nhập văn bản** vào ô bên trái
+        4. **Nhấn nút 'Dịch'** để xem kết quả
+        
+        ### Hỗ trợ các cặp ngôn ngữ:
+        - 🇬🇧 **Tiếng Anh** ↔ 🇻🇳 **Tiếng Việt**
+        - 🇬🇧 **Tiếng Anh** ↔ 🇨🇳 **Tiếng Trung** 
+        - 🇻🇳 **Tiếng Việt** ↔ 🇨🇳 **Tiếng Trung** (sử dụng tiếng Anh làm trung gian)
+        
+        ### Lưu ý:
+        - Ứng dụng sử dụng các mô hình AI được huấn luyện sẵn
+        - Kết quả dịch có thể không hoàn hảo 100%
+        - Với văn bản dài, thời gian dịch có thể lâu hơn
+        """)
+    
+    # Nút dịch
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:
+        translate_btn = st.button(
+            "🚀 Dịch Ngay", 
+            type="primary", 
+            use_container_width=True
+        )
+    
+    # Xử lý dịch khi nhấn nút
+    if translate_btn and input_text.strip():
+        with st.spinner('Đang xử lý dịch...'):
+            try:
+                src_code = lang_map[src_lang]
+                tgt_code = lang_map[tgt_lang]
+                
+                # Kiểm tra nếu cùng ngôn ngữ
+                if src_code == tgt_code:
+                    result = input_text
+                
+                # Dịch trực tiếp có sẵn model
+                elif f"{src_code}_{tgt_code}" in models:
+                    model_key = f"{src_code}_{tgt_code}"
+                    result = models[model_key](input_text)[0]['translation_text']
+                
+                # Dịch sử dụng pivot
+                else:
+                    result = translate_with_pivot(input_text, src_code, tgt_code, models)
+                
+                # Hiển thị kết quả
+                translation_placeholder.success("✅ Dịch thành công!")
+                translation_placeholder.text_area(
+                    "Bản dịch:",
+                    value=result,
+                    height=150,
+                    key="translation_result"
+                )
+                
+                # Thống kê
+                st.markdown("---")
+                col1, col2, col3 = st.columns(3)
+                with col1:
+                    st.metric("Độ dài văn bản gốc", f"{len(input_text)} ký tự")
+                with col2:
+                    st.metric("Độ dài bản dịch", f"{len(result)} ký tự")
+                with col3:
+                    st.metric("Cặp ngôn ngữ", f"{src_code.upper()} → {tgt_code.upper()}")
+                    
+            except Exception as e:
+                st.error(f"❌ Có lỗi xảy ra khi dịch: {str(e)}")
+    
+    elif translate_btn and not input_text.strip():
+        st.warning("⚠️ Vui lòng nhập văn bản cần dịch")
+
+    # Footer
+    st.markdown("---")
+    st.markdown(
+        "🛠 **Ứng dụng được xây dựng bằng Streamlit và Transformers** | "
+        "📚 **Mô hình từ Hugging Face Hub** | "
+        "⚡ **Powered by PyTorch**"
+    )
+
+if __name__ == "__main__":
+    main()
