@@ -1,0 +1,1872 @@
+﻿word1,word2,label
+đẹp,xinh,1
+đẹp,xinh đẹp,1
+đẹp,dễ thương,1
+đẹp,duyên dáng,1
+xấu,tệ,1
+xấu,xấu xí,1
+xấu,kinh khủng,1
+xấu,đáng sợ,1
+vui,hạnh phúc,1
+vui,vui vẻ,1
+vui,vui mừng,1
+vui,phấn khởi,1
+buồn,chán nản,1
+buồn,đau khổ,1
+buồn,u sầu,1
+buồn,tuyệt vọng,1
+cao,cao lớn,1
+cao,cao ráo,1
+cao,vượt trội,1
+cao,nổi bật,1
+thấp,lùn,1
+thấp,bé nhỏ,1
+thấp,ngắn ngủn,1
+thấp,khiêm tốn,1
+to,lớn,1
+to,khổng lồ,1
+to,bự,1
+to,vĩ đại,1
+nhỏ,bé,1
+nhỏ,mini,1
+nhỏ,tý hon,1
+nhỏ,hạt cát,1
+học,nghiên cứu,1
+học,tìm hiểu,1
+học,rèn luyện,1
+học,ôn tập,1
+chơi,giải trí,1
+chơi,vui đùa,1
+chơi,nghỉ ngơi,1
+chơi,thư giãn,1
+đẹp,xấu,0
+đẹp,tệ,0
+đẹp,kinh khủng,0
+đẹp,đáng sợ,0
+vui,buồn,0
+vui,chán nản,0
+vui,tuyệt vọng,0
+cao,thấp,0
+cao,lùn,0
+cao,bé nhỏ,0
+to,nhỏ,0
+to,bé,0
+to,mini,0
+mạnh,yếu,0
+mạnh,mỏng manh,0
+mạnh,mong manh,0
+giàu,nghèo,0
+giàu,bần cùng,0
+giàu,thiếu thốn,0
+sáng,tối,0
+sáng,mờ,0
+sáng,u ám,0
+nóng,lạnh,0
+nóng,mát,0
+nóng,rét,0
+mới,cũ,0
+mới,xưa,0
+mới,lỗi thời,0
+thật,giả,0
+thật,dối trá,0
+thật,giả tạo,0
+buồn,mini,0
+vui,tệ,1
+to,tuyệt vọng,0
+cao,mini,1
+cao,buồn,0
+to,xấu xí,1
+chơi,lùn,0
+cao,xinh,0
+thật,bé,0
+cao,chán nản,0
+học,đau khổ,0
+học,xấu xí,0
+nóng,thấp,1
+đẹp,hạnh phúc,1
+cao,chán nản,1
+đẹp,phấn khởi,1
+nóng,chán nản,1
+buồn,đau khổ,1
+thật,tệ,0
+to,dễ thương,1
+to,đáng sợ,1
+đẹp,vui vẻ,1
+giàu,buồn,0
+mạnh,xinh,1
+xấu,đáng sợ,1
+to,u sầu,0
+sáng,vui mừng,0
+vui,hạnh phúc,0
+vui,bé,0
+vui,đáng sợ,0
+vui,thấp,1
+nóng,dễ thương,0
+cao,buồn,1
+đẹp,xinh,0
+vui,bé nhỏ,1
+mới,đau khổ,0
+thấp,tệ,1
+đẹp,bé,1
+nóng,phấn khởi,1
+cao,bé,0
+to,tệ,0
+đẹp,chán nản,1
+chơi,hạnh phúc,0
+to,u sầu,0
+giàu,nhỏ,0
+học,hạnh phúc,1
+chơi,bé,0
+buồn,đáng sợ,0
+to,xinh,0
+nhỏ,bé nhỏ,1
+xấu,bé nhỏ,0
+cao,nhỏ,0
+to,buồn,1
+cao,bé,1
+thật,u sầu,1
+đẹp,hạnh phúc,0
+vui,đau khổ,0
+nóng,bé,1
+vui,mini,0
+cao,kinh khủng,1
+cao,mini,0
+đẹp,hạnh phúc,1
+sáng,vui mừng,1
+đẹp,vui vẻ,0
+đẹp,lùn,0
+học,phấn khởi,1
+giàu,mini,1
+đẹp,xấu,1
+nóng,nhỏ,0
+vui,đau khổ,1
+học,dễ thương,1
+học,bé,1
+nóng,thấp,0
+giàu,tuyệt vọng,1
+đẹp,bé,1
+cao,đáng sợ,0
+đẹp,xinh đẹp,1
+thật,đáng sợ,0
+thật,xấu xí,1
+nhỏ,vui vẻ,1
+xấu,tệ,1
+thấp,bé,1
+mới,u sầu,1
+thật,tuyệt vọng,1
+cao,mini,1
+học,xinh,1
+nhỏ,đáng sợ,1
+cao,kinh khủng,0
+đẹp,chán nản,1
+to,xấu xí,0
+xấu,vui vẻ,1
+thấp,tuyệt vọng,1
+thấp,nhỏ,1
+sáng,đáng sợ,0
+cao,hạnh phúc,1
+vui,dễ thương,0
+nóng,tệ,0
+mạnh,nhỏ,0
+giàu,bé,1
+xấu,xấu,1
+đẹp,chán nản,1
+buồn,tuyệt vọng,1
+nóng,hạnh phúc,1
+cao,lùn,0
+to,đáng sợ,0
+buồn,chán nản,1
+cao,xấu,0
+mạnh,mini,1
+đẹp,xinh đẹp,0
+sáng,vui mừng,0
+sáng,tuyệt vọng,1
+xấu,vui mừng,0
+đẹp,tệ,1
+vui,bé nhỏ,0
+thấp,duyên dáng,0
+buồn,duyên dáng,1
+thấp,chán nản,0
+đẹp,kinh khủng,1
+mạnh,xấu,1
+to,duyên dáng,0
+nóng,xấu,1
+học,tuyệt vọng,0
+xấu,tuyệt vọng,0
+vui,bé,0
+mới,đáng sợ,0
+xấu,xinh đẹp,0
+nóng,nhỏ,0
+học,tuyệt vọng,0
+vui,kinh khủng,0
+vui,xấu xí,0
+vui,phấn khởi,1
+giàu,đáng sợ,1
+chơi,đáng sợ,0
+mạnh,tuyệt vọng,0
+đẹp,tệ,0
+vui,xinh,0
+cao,dễ thương,1
+sáng,chán nản,1
+chơi,tuyệt vọng,1
+xấu,đáng sợ,0
+giàu,xinh đẹp,1
+xấu,tuyệt vọng,1
+mạnh,tệ,0
+nhỏ,chán nản,1
+mới,nhỏ,1
+buồn,mini,1
+học,kinh khủng,1
+mạnh,xấu xí,0
+đẹp,chán nản,0
+nhỏ,chán nản,0
+đẹp,xinh đẹp,1
+thật,bé,0
+thật,nhỏ,0
+to,tệ,0
+đẹp,vui vẻ,1
+vui,xấu,1
+đẹp,dễ thương,1
+vui,nhỏ,0
+sáng,u sầu,0
+xấu,tuyệt vọng,0
+đẹp,buồn,1
+học,kinh khủng,1
+buồn,dễ thương,1
+nóng,chán nản,1
+thật,hạnh phúc,0
+vui,bé,0
+thật,kinh khủng,0
+cao,tuyệt vọng,1
+học,hạnh phúc,0
+nhỏ,tuyệt vọng,1
+to,đáng sợ,1
+sáng,tệ,0
+sáng,bé nhỏ,1
+to,tuyệt vọng,1
+to,chán nản,0
+to,kinh khủng,0
+mạnh,tuyệt vọng,1
+vui,kinh khủng,1
+thấp,xấu,1
+vui,đáng sợ,0
+vui,lùn,0
+to,chán nản,1
+to,đáng sợ,0
+giàu,xấu xí,1
+nóng,nhỏ,1
+mới,tuyệt vọng,1
+học,kinh khủng,1
+đẹp,bé,1
+to,xấu xí,1
+cao,xấu xí,1
+mạnh,xấu xí,0
+cao,buồn,1
+vui,vui vẻ,1
+học,thấp,0
+giàu,đáng sợ,0
+mạnh,đau khổ,1
+chơi,tuyệt vọng,0
+vui,tuyệt vọng,1
+giàu,thấp,0
+buồn,thấp,0
+cao,xinh đẹp,0
+vui,thấp,1
+giàu,đau khổ,0
+vui,thấp,0
+học,bé,0
+cao,thấp,0
+đẹp,tệ,0
+to,vui mừng,0
+to,duyên dáng,1
+to,u sầu,0
+mới,u sầu,1
+to,tuyệt vọng,0
+cao,thấp,0
+to,vui vẻ,1
+đẹp,đau khổ,0
+đẹp,vui vẻ,1
+mạnh,chán nản,1
+mới,bé nhỏ,0
+giàu,vui vẻ,1
+thấp,phấn khởi,0
+vui,phấn khởi,0
+xấu,duyên dáng,1
+cao,chán nản,1
+buồn,tệ,1
+nhỏ,tuyệt vọng,1
+nhỏ,xinh đẹp,0
+mới,tệ,0
+thấp,tệ,1
+sáng,vui vẻ,1
+nhỏ,duyên dáng,1
+học,nhỏ,0
+vui,dễ thương,1
+thật,thấp,0
+chơi,duyên dáng,1
+học,vui mừng,0
+nhỏ,buồn,1
+đẹp,đáng sợ,1
+đẹp,dễ thương,1
+to,xấu,0
+nhỏ,tuyệt vọng,1
+xấu,duyên dáng,0
+to,chán nản,1
+đẹp,chán nản,0
+vui,tuyệt vọng,1
+chơi,hạnh phúc,1
+cao,chán nản,0
+cao,hạnh phúc,1
+cao,bé nhỏ,1
+chơi,u sầu,0
+thấp,chán nản,1
+thấp,kinh khủng,0
+to,lùn,0
+cao,hạnh phúc,1
+nóng,u sầu,1
+vui,duyên dáng,0
+đẹp,chán nản,1
+nhỏ,mini,1
+chơi,dễ thương,1
+nhỏ,vui vẻ,0
+xấu,xinh,0
+mới,xấu,1
+thật,bé,1
+buồn,dễ thương,0
+nhỏ,tuyệt vọng,1
+mạnh,tệ,0
+thật,phấn khởi,0
+cao,đáng sợ,1
+giàu,phấn khởi,0
+giàu,dễ thương,0
+thật,mini,0
+nhỏ,tuyệt vọng,1
+cao,buồn,1
+vui,chán nản,0
+thấp,vui vẻ,1
+đẹp,chán nản,1
+nóng,lùn,1
+thật,kinh khủng,0
+to,tuyệt vọng,0
+mạnh,bé,1
+to,tệ,0
+giàu,kinh khủng,0
+thật,bé,1
+vui,chán nản,0
+đẹp,buồn,1
+thật,xấu xí,1
+chơi,kinh khủng,0
+sáng,tệ,0
+mới,bé nhỏ,1
+sáng,xấu,0
+nóng,xinh đẹp,0
+cao,vui mừng,1
+mới,tệ,0
+học,đau khổ,1
+buồn,thấp,0
+buồn,kinh khủng,1
+nóng,mini,1
+cao,tệ,0
+buồn,đáng sợ,1
+giàu,mini,1
+cao,xấu,1
+đẹp,chán nản,1
+cao,đáng sợ,0
+chơi,u sầu,0
+mạnh,bé,1
+xấu,xinh đẹp,0
+vui,kinh khủng,0
+to,nhỏ,0
+đẹp,xấu xí,1
+thấp,kinh khủng,0
+thấp,lùn,0
+thấp,thấp,0
+thật,lùn,0
+mới,xinh đẹp,0
+cao,vui vẻ,1
+to,xấu xí,0
+vui,buồn,0
+to,kinh khủng,1
+to,xấu,0
+đẹp,dễ thương,1
+cao,dễ thương,1
+sáng,vui mừng,0
+vui,kinh khủng,1
+học,thấp,1
+thật,bé nhỏ,0
+thấp,bé nhỏ,1
+đẹp,lùn,1
+cao,nhỏ,1
+xấu,xấu,1
+học,chán nản,1
+mạnh,thấp,1
+giàu,lùn,1
+thật,bé nhỏ,0
+học,đáng sợ,0
+thật,duyên dáng,0
+thấp,kinh khủng,0
+mới,hạnh phúc,0
+vui,đáng sợ,1
+to,chán nản,1
+thấp,kinh khủng,1
+vui,thấp,0
+đẹp,tệ,0
+học,u sầu,0
+thật,tuyệt vọng,1
+to,đáng sợ,1
+chơi,đáng sợ,0
+đẹp,tuyệt vọng,1
+giàu,dễ thương,1
+thấp,bé,0
+đẹp,bé nhỏ,1
+thấp,xấu xí,1
+mạnh,u sầu,1
+cao,đáng sợ,1
+thấp,đau khổ,0
+học,tệ,1
+vui,phấn khởi,0
+chơi,u sầu,1
+thật,kinh khủng,0
+to,hạnh phúc,1
+nhỏ,kinh khủng,1
+xấu,tệ,0
+to,đau khổ,0
+thật,vui mừng,0
+nóng,chán nản,1
+buồn,đáng sợ,1
+nóng,nhỏ,0
+cao,nhỏ,0
+to,kinh khủng,1
+nhỏ,tệ,0
+học,xinh đẹp,0
+cao,xinh đẹp,0
+xấu,lùn,0
+đẹp,dễ thương,0
+học,chán nản,1
+chơi,hạnh phúc,0
+mới,tuyệt vọng,0
+sáng,chán nản,1
+vui,mini,0
+sáng,nhỏ,0
+nóng,mini,0
+nóng,đáng sợ,0
+to,buồn,1
+to,đáng sợ,1
+đẹp,bé nhỏ,1
+cao,bé,0
+buồn,bé nhỏ,1
+xấu,lùn,0
+nhỏ,xinh,1
+cao,đau khổ,1
+buồn,lùn,1
+vui,buồn,0
+sáng,chán nản,0
+cao,đáng sợ,0
+sáng,xinh đẹp,1
+chơi,u sầu,0
+xấu,buồn,0
+chơi,xấu xí,1
+vui,tuyệt vọng,0
+giàu,bé nhỏ,1
+giàu,xấu xí,0
+nóng,xấu,0
+to,xấu,1
+vui,kinh khủng,0
+xấu,tuyệt vọng,1
+mạnh,kinh khủng,0
+nhỏ,vui vẻ,1
+chơi,tuyệt vọng,1
+nóng,tệ,1
+to,vui mừng,1
+mới,đáng sợ,1
+học,vui vẻ,0
+to,chán nản,0
+thấp,tệ,1
+nóng,dễ thương,1
+nóng,đáng sợ,0
+to,xinh đẹp,1
+mới,dễ thương,1
+đẹp,xinh đẹp,0
+đẹp,tuyệt vọng,0
+giàu,chán nản,1
+vui,nhỏ,1
+đẹp,hạnh phúc,1
+nóng,xấu,0
+giàu,đáng sợ,1
+vui,lùn,1
+mới,bé nhỏ,1
+thật,duyên dáng,0
+vui,kinh khủng,1
+vui,xấu,0
+nóng,duyên dáng,1
+sáng,xấu,1
+to,chán nản,1
+vui,mini,0
+mới,kinh khủng,0
+to,vui mừng,0
+vui,lùn,1
+mạnh,xấu xí,0
+xấu,hạnh phúc,1
+chơi,bé nhỏ,1
+cao,xấu,1
+đẹp,tuyệt vọng,1
+mạnh,tuyệt vọng,0
+mạnh,chán nản,1
+sáng,xấu xí,1
+cao,tuyệt vọng,1
+nóng,hạnh phúc,1
+buồn,tệ,0
+chơi,phấn khởi,0
+nóng,vui mừng,0
+to,thấp,1
+nóng,thấp,0
+to,vui vẻ,0
+mới,đau khổ,0
+chơi,u sầu,0
+thật,bé,1
+đẹp,tuyệt vọng,1
+buồn,u sầu,1
+nóng,lùn,0
+vui,đau khổ,1
+giàu,tuyệt vọng,0
+to,xinh đẹp,1
+xấu,tệ,1
+thật,bé nhỏ,1
+thấp,tuyệt vọng,1
+thấp,chán nản,1
+nhỏ,bé nhỏ,1
+buồn,tuyệt vọng,1
+mạnh,u sầu,1
+vui,phấn khởi,1
+mạnh,xinh đẹp,0
+to,u sầu,1
+đẹp,phấn khởi,1
+giàu,tuyệt vọng,1
+cao,đau khổ,1
+chơi,bé nhỏ,1
+nóng,xinh đẹp,1
+giàu,tuyệt vọng,0
+thấp,u sầu,1
+thấp,duyên dáng,1
+to,bé nhỏ,1
+cao,u sầu,0
+nhỏ,đáng sợ,0
+mới,kinh khủng,1
+vui,u sầu,0
+buồn,xinh đẹp,1
+giàu,xấu xí,1
+thấp,đáng sợ,1
+xấu,bé,1
+nóng,xấu,0
+nóng,u sầu,1
+học,phấn khởi,1
+nóng,thấp,0
+xấu,vui vẻ,1
+vui,tuyệt vọng,1
+mới,bé,0
+mới,chán nản,1
+đẹp,vui mừng,1
+mạnh,chán nản,0
+to,xấu xí,0
+đẹp,xinh,1
+cao,duyên dáng,1
+vui,tuyệt vọng,0
+nóng,lùn,0
+sáng,vui mừng,1
+xấu,hạnh phúc,0
+thấp,hạnh phúc,0
+buồn,buồn,0
+chơi,tuyệt vọng,1
+mới,mini,1
+vui,vui vẻ,0
+mạnh,bé,0
+mạnh,bé nhỏ,0
+vui,chán nản,1
+nóng,xinh đẹp,0
+đẹp,lùn,0
+xấu,kinh khủng,1
+đẹp,u sầu,0
+mới,chán nản,0
+giàu,kinh khủng,0
+học,đau khổ,1
+giàu,xinh,0
+sáng,u sầu,1
+vui,thấp,1
+to,duyên dáng,0
+xấu,mini,0
+mới,hạnh phúc,1
+đẹp,lùn,0
+nhỏ,kinh khủng,1
+thật,tuyệt vọng,0
+buồn,tuyệt vọng,1
+buồn,lùn,0
+chơi,nhỏ,1
+nhỏ,bé nhỏ,0
+buồn,thấp,0
+giàu,lùn,1
+đẹp,bé nhỏ,0
+giàu,xinh đẹp,0
+thật,chán nản,0
+mạnh,đau khổ,0
+giàu,đáng sợ,0
+giàu,đau khổ,0
+giàu,lùn,1
+nóng,chán nản,1
+cao,tuyệt vọng,0
+giàu,xinh đẹp,1
+thật,đau khổ,1
+nhỏ,bé nhỏ,0
+vui,kinh khủng,0
+vui,kinh khủng,1
+to,mini,0
+mạnh,chán nản,0
+cao,kinh khủng,1
+đẹp,xấu,1
+to,thấp,1
+mới,xinh đẹp,1
+học,bé,1
+thật,dễ thương,0
+to,u sầu,0
+học,thấp,1
+buồn,xấu,0
+nóng,mini,1
+học,xấu,0
+thấp,bé nhỏ,1
+cao,dễ thương,1
+cao,duyên dáng,0
+mạnh,kinh khủng,1
+đẹp,buồn,0
+thấp,tuyệt vọng,0
+học,chán nản,0
+giàu,tuyệt vọng,0
+nhỏ,buồn,0
+sáng,xinh đẹp,1
+sáng,buồn,0
+đẹp,kinh khủng,1
+mạnh,xấu,0
+cao,kinh khủng,1
+giàu,buồn,0
+chơi,chán nản,1
+vui,u sầu,0
+to,tệ,1
+to,bé nhỏ,1
+sáng,xinh,1
+mạnh,mini,1
+cao,bé,1
+xấu,nhỏ,1
+thấp,dễ thương,1
+học,vui mừng,1
+thấp,bé nhỏ,0
+sáng,mini,1
+nóng,kinh khủng,0
+buồn,vui vẻ,0
+sáng,đáng sợ,0
+cao,kinh khủng,0
+to,đáng sợ,1
+cao,buồn,1
+nóng,u sầu,1
+thấp,lùn,1
+to,chán nản,0
+giàu,chán nản,1
+nhỏ,phấn khởi,0
+giàu,tuyệt vọng,1
+xấu,buồn,0
+mạnh,tuyệt vọng,0
+đẹp,buồn,0
+vui,vui mừng,0
+cao,chán nản,0
+vui,duyên dáng,1
+thấp,mini,1
+nhỏ,nhỏ,0
+giàu,tuyệt vọng,1
+học,duyên dáng,1
+mới,bé,0
+nhỏ,mini,1
+thật,buồn,0
+mới,tuyệt vọng,0
+giàu,hạnh phúc,0
+đẹp,vui mừng,0
+giàu,thấp,0
+sáng,buồn,0
+sáng,buồn,1
+vui,tệ,1
+sáng,đau khổ,1
+vui,nhỏ,0
+mới,tệ,0
+thấp,đáng sợ,1
+thấp,xinh,1
+vui,chán nản,0
+xấu,buồn,0
+thấp,mini,0
+đẹp,chán nản,0
+đẹp,nhỏ,0
+vui,vui vẻ,1
+sáng,bé,0
+thấp,nhỏ,0
+cao,đáng sợ,0
+mạnh,phấn khởi,1
+sáng,xấu,0
+xấu,bé nhỏ,0
+to,bé nhỏ,0
+xấu,dễ thương,0
+mạnh,đau khổ,0
+nóng,bé,1
+đẹp,chán nản,0
+học,buồn,1
+mạnh,tệ,1
+xấu,nhỏ,1
+cao,đáng sợ,1
+cao,tệ,0
+vui,xấu,1
+mới,duyên dáng,1
+học,nhỏ,1
+cao,đáng sợ,0
+mới,lùn,1
+đẹp,lùn,1
+to,tuyệt vọng,0
+to,đáng sợ,0
+nóng,kinh khủng,0
+vui,nhỏ,0
+nhỏ,hạnh phúc,0
+to,xấu xí,1
+cao,dễ thương,1
+xấu,nhỏ,0
+xấu,u sầu,1
+học,chán nản,1
+đẹp,nhỏ,1
+đẹp,kinh khủng,0
+to,kinh khủng,1
+vui,thấp,1
+buồn,tệ,1
+thật,xinh đẹp,1
+cao,xấu,1
+đẹp,kinh khủng,1
+to,chán nản,1
+học,tệ,1
+nhỏ,kinh khủng,1
+nhỏ,kinh khủng,0
+nhỏ,vui vẻ,1
+xấu,lùn,0
+nóng,bé,1
+vui,kinh khủng,1
+thật,mini,1
+vui,bé nhỏ,0
+vui,dễ thương,0
+mới,kinh khủng,0
+buồn,kinh khủng,1
+nhỏ,xấu xí,1
+vui,u sầu,0
+đẹp,bé nhỏ,1
+mạnh,dễ thương,1
+đẹp,u sầu,1
+chơi,tệ,1
+to,duyên dáng,0
+đẹp,kinh khủng,1
+đẹp,thấp,1
+to,đáng sợ,1
+cao,xấu,0
+nhỏ,xấu,1
+chơi,đáng sợ,0
+giàu,xấu,0
+xấu,dễ thương,0
+mạnh,lùn,0
+mới,mini,1
+mạnh,đáng sợ,1
+vui,xấu,0
+vui,nhỏ,1
+mới,tệ,0
+cao,chán nản,1
+buồn,chán nản,1
+vui,kinh khủng,0
+mới,bé nhỏ,0
+thấp,lùn,1
+giàu,thấp,0
+giàu,buồn,1
+giàu,mini,0
+xấu,phấn khởi,1
+mạnh,tệ,0
+to,kinh khủng,1
+xấu,kinh khủng,0
+mạnh,chán nản,1
+buồn,xấu xí,1
+nóng,vui mừng,1
+buồn,xấu,1
+đẹp,tuyệt vọng,0
+to,xấu xí,1
+thật,bé nhỏ,1
+mạnh,xinh đẹp,0
+vui,dễ thương,1
+xấu,kinh khủng,1
+to,chán nản,0
+thấp,nhỏ,1
+nhỏ,kinh khủng,1
+sáng,tệ,1
+học,đau khổ,1
+thật,kinh khủng,1
+to,lùn,1
+cao,xinh đẹp,0
+to,kinh khủng,1
+cao,kinh khủng,1
+học,xinh đẹp,1
+học,dễ thương,0
+sáng,chán nản,1
+to,kinh khủng,0
+giàu,vui mừng,1
+mạnh,đáng sợ,0
+mới,xấu,1
+sáng,dễ thương,1
+thấp,xấu xí,0
+vui,dễ thương,0
+nóng,mini,0
+sáng,thấp,1
+học,u sầu,1
+học,nhỏ,1
+cao,vui vẻ,1
+thấp,u sầu,1
+nhỏ,xấu,0
+cao,bé,1
+mới,vui mừng,1
+cao,lùn,0
+buồn,bé,1
+cao,mini,0
+học,nhỏ,0
+đẹp,bé nhỏ,1
+chơi,bé nhỏ,1
+vui,duyên dáng,1
+buồn,kinh khủng,0
+xấu,tệ,1
+đẹp,vui vẻ,1
+mới,xinh đẹp,1
+nóng,bé,0
+học,đáng sợ,1
+cao,bé nhỏ,0
+to,kinh khủng,0
+nhỏ,tệ,1
+đẹp,thấp,0
+sáng,xinh,1
+thật,xinh,1
+giàu,bé nhỏ,1
+vui,u sầu,0
+vui,tuyệt vọng,1
+vui,chán nản,1
+to,mini,0
+đẹp,vui mừng,0
+nhỏ,u sầu,1
+thật,xấu xí,0
+nóng,hạnh phúc,0
+nhỏ,tuyệt vọng,1
+buồn,mini,1
+vui,lùn,0
+to,chán nản,1
+thấp,đau khổ,0
+vui,buồn,0
+xấu,chán nản,1
+học,chán nản,0
+chơi,thấp,1
+sáng,xấu,0
+cao,chán nản,1
+buồn,vui mừng,1
+đẹp,dễ thương,1
+to,bé nhỏ,1
+thấp,nhỏ,1
+đẹp,lùn,0
+to,lùn,0
+to,lùn,0
+thật,xinh,0
+nóng,xấu,1
+vui,lùn,0
+mới,vui vẻ,0
+xấu,bé,0
+chơi,kinh khủng,0
+mạnh,đau khổ,0
+học,phấn khởi,1
+cao,thấp,0
+cao,tuyệt vọng,0
+đẹp,chán nản,0
+mạnh,kinh khủng,0
+to,đau khổ,0
+xấu,thấp,0
+sáng,đáng sợ,0
+học,đáng sợ,0
+giàu,nhỏ,1
+vui,vui vẻ,0
+giàu,đáng sợ,0
+thấp,đáng sợ,1
+to,đáng sợ,1
+cao,đau khổ,0
+mới,tuyệt vọng,0
+nhỏ,tệ,0
+chơi,bé nhỏ,1
+đẹp,chán nản,1
+học,thấp,1
+cao,kinh khủng,0
+đẹp,tệ,0
+học,thấp,0
+cao,đau khổ,0
+mạnh,kinh khủng,1
+nóng,u sầu,0
+vui,xấu xí,1
+đẹp,đáng sợ,0
+to,chán nản,0
+thấp,bé nhỏ,0
+sáng,tuyệt vọng,1
+nóng,hạnh phúc,0
+đẹp,tuyệt vọng,1
+học,nhỏ,0
+giàu,vui vẻ,1
+to,kinh khủng,1
+to,bé,1
+mới,mini,1
+thấp,hạnh phúc,0
+buồn,thấp,1
+đẹp,đáng sợ,0
+buồn,thấp,0
+mới,xinh đẹp,1
+to,tệ,0
+cao,xinh,1
+nhỏ,hạnh phúc,1
+đẹp,buồn,1
+sáng,đáng sợ,1
+đẹp,xấu,1
+đẹp,bé nhỏ,1
+giàu,mini,1
+nóng,thấp,0
+vui,tuyệt vọng,0
+buồn,buồn,1
+nhỏ,xấu xí,1
+to,nhỏ,1
+đẹp,duyên dáng,1
+cao,bé nhỏ,1
+thật,bé,1
+cao,nhỏ,1
+nhỏ,chán nản,0
+sáng,xinh đẹp,1
+sáng,hạnh phúc,1
+học,đau khổ,1
+cao,bé,1
+đẹp,mini,1
+đẹp,chán nản,1
+to,mini,1
+to,kinh khủng,0
+cao,mini,0
+mới,bé,1
+to,xấu,1
+đẹp,kinh khủng,0
+cao,đau khổ,0
+to,dễ thương,1
+cao,mini,0
+buồn,xinh,0
+xấu,xấu,1
+cao,vui mừng,1
+đẹp,tuyệt vọng,0
+mới,tuyệt vọng,0
+thấp,nhỏ,1
+đẹp,tuyệt vọng,0
+buồn,thấp,0
+mạnh,phấn khởi,1
+cao,đáng sợ,0
+vui,đáng sợ,0
+to,u sầu,1
+nhỏ,chán nản,0
+học,dễ thương,0
+xấu,buồn,0
+thật,xấu,0
+đẹp,lùn,0
+buồn,thấp,0
+đẹp,xấu,1
+thật,dễ thương,0
+học,xinh đẹp,1
+to,xấu xí,1
+mạnh,chán nản,0
+nhỏ,đáng sợ,0
+xấu,xấu,1
+vui,nhỏ,0
+mạnh,nhỏ,1
+chơi,buồn,1
+nóng,nhỏ,1
+sáng,đáng sợ,0
+thật,bé nhỏ,1
+vui,thấp,0
+xấu,nhỏ,0
+chơi,bé nhỏ,0
+vui,tệ,1
+vui,thấp,1
+to,chán nản,1
+thật,xinh đẹp,1
+vui,lùn,0
+nhỏ,xinh đẹp,1
+học,xấu xí,0
+buồn,buồn,0
+đẹp,đáng sợ,1
+đẹp,buồn,1
+giàu,kinh khủng,1
+vui,nhỏ,1
+thấp,đáng sợ,0
+mới,đáng sợ,1
+nhỏ,vui mừng,1
+cao,u sầu,1
+thật,đáng sợ,1
+nóng,mini,0
+cao,mini,1
+đẹp,nhỏ,0
+xấu,duyên dáng,0
+xấu,bé,0
+mạnh,hạnh phúc,1
+buồn,đau khổ,1
+chơi,bé nhỏ,1
+to,kinh khủng,1
+mới,lùn,1
+mạnh,tuyệt vọng,1
+thấp,lùn,0
+to,kinh khủng,0
+nóng,đáng sợ,0
+cao,vui vẻ,0
+cao,đáng sợ,1
+nhỏ,xấu,1
+đẹp,lùn,0
+mới,đáng sợ,0
+cao,xấu xí,0
+cao,đau khổ,0
+vui,xấu,1
+mới,tuyệt vọng,1
+buồn,lùn,1
+giàu,tệ,1
+to,tuyệt vọng,1
+thật,buồn,0
+cao,đau khổ,1
+cao,vui vẻ,0
+xấu,buồn,1
+nóng,phấn khởi,1
+nóng,lùn,1
+chơi,lùn,0
+thấp,đáng sợ,1
+vui,đáng sợ,1
+vui,thấp,0
+to,xinh đẹp,0
+mới,mini,1
+to,tuyệt vọng,1
+to,tuyệt vọng,0
+xấu,xinh,0
+thật,nhỏ,0
+vui,u sầu,0
+thật,xinh,0
+vui,chán nản,1
+vui,tuyệt vọng,0
+chơi,tuyệt vọng,0
+đẹp,tệ,0
+cao,kinh khủng,0
+to,lùn,1
+nóng,xinh,0
+xấu,buồn,0
+học,tệ,0
+nhỏ,xinh,0
+vui,buồn,1
+thấp,mini,0
+thấp,duyên dáng,1
+nhỏ,lùn,1
+đẹp,buồn,1
+đẹp,đáng sợ,0
+nóng,kinh khủng,0
+giàu,kinh khủng,0
+buồn,hạnh phúc,0
+nóng,buồn,1
+thấp,tuyệt vọng,0
+mạnh,vui mừng,0
+đẹp,bé nhỏ,0
+thấp,bé,1
+thật,buồn,1
+vui,bé,1
+giàu,buồn,1
+to,tuyệt vọng,1
+to,tệ,0
+thấp,chán nản,0
+đẹp,tuyệt vọng,1
+vui,đáng sợ,0
+to,u sầu,0
+vui,mini,0
+nóng,vui vẻ,1
+vui,u sầu,1
+chơi,xinh đẹp,1
+mạnh,đáng sợ,1
+xấu,mini,0
+đẹp,thấp,1
+thấp,buồn,1
+thấp,bé,1
+học,u sầu,1
+buồn,mini,1
+chơi,bé nhỏ,0
+to,kinh khủng,0
+to,mini,1
+to,tệ,0
+sáng,bé,1
+to,xinh đẹp,0
+mới,xấu,0
+đẹp,xấu,1
+to,dễ thương,0
+xấu,đáng sợ,1
+học,phấn khởi,0
+thật,tệ,0
+vui,hạnh phúc,0
+sáng,tuyệt vọng,1
+thật,bé nhỏ,1
+nhỏ,mini,1
+xấu,buồn,0
+to,tuyệt vọng,1
+vui,thấp,1
+nóng,tuyệt vọng,1
+học,mini,0
+thấp,thấp,1
+giàu,lùn,1
+thấp,chán nản,1
+mới,hạnh phúc,0
+cao,mini,0
+học,lùn,1
+đẹp,thấp,0
+đẹp,đáng sợ,0
+thấp,hạnh phúc,0
+nhỏ,phấn khởi,0
+mới,tệ,1
+vui,tuyệt vọng,1
+đẹp,u sầu,1
+nhỏ,mini,0
+nhỏ,lùn,0
+vui,nhỏ,1
+mới,vui vẻ,0
+sáng,vui vẻ,1
+giàu,chán nản,1
+mạnh,chán nản,0
+sáng,hạnh phúc,1
+vui,vui mừng,0
+học,xấu,0
+cao,tệ,1
+nóng,hạnh phúc,0
+nhỏ,bé,0
+to,bé,1
+vui,tuyệt vọng,1
+to,tệ,0
+to,buồn,0
+nóng,thấp,0
+chơi,kinh khủng,1
+to,dễ thương,1
+cao,đau khổ,1
+thật,xinh đẹp,1
+học,bé nhỏ,0
+nóng,đau khổ,1
+học,xinh đẹp,1
+cao,bé,0
+nóng,chán nản,1
+vui,vui mừng,1
+mạnh,chán nản,1
+mạnh,kinh khủng,0
+học,chán nản,0
+xấu,tuyệt vọng,1
+đẹp,chán nản,1
+nhỏ,buồn,0
+vui,đau khổ,1
+nhỏ,tuyệt vọng,1
+chơi,chán nản,0
+nóng,buồn,0
+sáng,chán nản,0
+thật,đáng sợ,1
+giàu,tệ,0
+học,tuyệt vọng,0
+mạnh,xinh đẹp,0
+đẹp,nhỏ,1
+vui,duyên dáng,0
+sáng,chán nản,0
+thật,hạnh phúc,1
+vui,xinh,0
+vui,buồn,1
+học,bé,0
+sáng,hạnh phúc,1
+nóng,tệ,0
+vui,chán nản,0
+to,vui vẻ,1
+sáng,xinh đẹp,1
+to,vui mừng,0
+chơi,buồn,0
+cao,xinh đẹp,0
+to,xấu,1
+xấu,xinh đẹp,1
+học,hạnh phúc,0
+thật,hạnh phúc,0
+mới,tuyệt vọng,0
+mới,chán nản,0
+mạnh,kinh khủng,0
+mạnh,mini,0
+to,hạnh phúc,1
+nhỏ,vui mừng,0
+cao,chán nản,0
+cao,tuyệt vọng,1
+buồn,vui mừng,1
+thấp,buồn,0
+vui,xấu,1
+mạnh,hạnh phúc,0
+thật,vui vẻ,0
+mạnh,đau khổ,1
+mới,kinh khủng,1
+thật,mini,0
+chơi,xấu,0
+xấu,đáng sợ,1
+mạnh,nhỏ,0
+to,chán nản,1
+vui,tuyệt vọng,0
+buồn,xinh,1
+nóng,xinh,1
+đẹp,tuyệt vọng,0
+nóng,tệ,0
+học,bé nhỏ,1
+xấu,tuyệt vọng,0
+vui,bé,0
+buồn,xấu xí,1
+sáng,đáng sợ,0
+sáng,tuyệt vọng,0
+đẹp,đáng sợ,1
+thật,bé nhỏ,0
+học,lùn,1
+to,xấu xí,0
+to,thấp,0
+to,u sầu,0
+cao,xinh đẹp,1
+giàu,xấu,0
+nhỏ,lùn,0
+chơi,chán nản,0
+cao,tệ,1
+cao,duyên dáng,1
+to,duyên dáng,1
+vui,hạnh phúc,1
+đẹp,nhỏ,1
+vui,lùn,0
+nhỏ,bé nhỏ,0
+nhỏ,chán nản,1
+to,đáng sợ,1
+cao,lùn,1
+sáng,bé nhỏ,0
+thấp,xinh đẹp,1
+mới,vui vẻ,1
+sáng,mini,0
+học,phấn khởi,1
+nóng,kinh khủng,1
+thật,chán nản,0
+cao,duyên dáng,0
+to,buồn,0
+sáng,xấu xí,0
+học,xinh đẹp,1
+to,chán nản,1
+đẹp,xinh đẹp,1
+buồn,kinh khủng,1
+buồn,bé nhỏ,0
+thật,tuyệt vọng,0
+đẹp,tuyệt vọng,1
+mới,vui mừng,0
+đẹp,đau khổ,0
+học,xấu,0
+vui,bé nhỏ,0
+buồn,đáng sợ,0
+đẹp,kinh khủng,0
+vui,xấu xí,1
+vui,tệ,1
+nhỏ,tệ,0
+cao,tuyệt vọng,0
+nhỏ,bé,0
+to,u sầu,1
+chơi,tuyệt vọng,1
+thấp,kinh khủng,1
+thấp,dễ thương,1
+mới,kinh khủng,1
+mạnh,lùn,1
+to,phấn khởi,1
+to,tuyệt vọng,0
+chơi,bé nhỏ,1
+vui,nhỏ,0
+cao,phấn khởi,1
+nóng,đau khổ,0
+mới,đau khổ,0
+buồn,xấu,0
+học,phấn khởi,1
+to,chán nản,0
+mạnh,nhỏ,1
+giàu,vui mừng,0
+mạnh,chán nản,1
+đẹp,lùn,0
+sáng,phấn khởi,1
+buồn,thấp,0
+học,buồn,1
+thấp,phấn khởi,1
+giàu,chán nản,1
+mạnh,duyên dáng,1
+cao,xinh,0
+mới,xấu,1
+to,bé nhỏ,1
+vui,hạnh phúc,1
+xấu,mini,1
+thật,tệ,1
+đẹp,hạnh phúc,1
+sáng,chán nản,0
+vui,xinh,0
+thật,duyên dáng,1
+sáng,hạnh phúc,1
+giàu,xấu xí,0
+đẹp,duyên dáng,1
+vui,xấu xí,1
+to,tệ,0
+to,bé nhỏ,1
+mới,duyên dáng,0
+cao,kinh khủng,1
+thật,xấu xí,1
+thật,duyên dáng,0
+đẹp,lùn,1
+nhỏ,xinh đẹp,0
+nhỏ,hạnh phúc,0
+to,hạnh phúc,1
+cao,tệ,0
+giàu,thấp,1
+buồn,bé nhỏ,1
+mạnh,nhỏ,0
+nhỏ,kinh khủng,1
+buồn,bé,1
+mới,vui mừng,1
+cao,lùn,0
+chơi,bé nhỏ,0
+giàu,đáng sợ,1
+mới,xấu xí,0
+buồn,tuyệt vọng,0
+buồn,vui vẻ,1
+thấp,chán nản,0
+mới,đáng sợ,1
+vui,đau khổ,0
+cao,vui mừng,0
+đẹp,xấu,1
+mạnh,xấu,1
+nóng,kinh khủng,0
+vui,tuyệt vọng,1
+to,xinh,0
+to,dễ thương,1
+đẹp,bé nhỏ,0
+đẹp,kinh khủng,1
+đẹp,phấn khởi,1
+cao,tuyệt vọng,0
+thật,xinh đẹp,1
+đẹp,u sầu,0
+học,phấn khởi,0
+giàu,tệ,0
+nóng,vui vẻ,0
+sáng,bé nhỏ,1
+đẹp,bé nhỏ,0
+thật,chán nản,1
+thấp,tuyệt vọng,0
+mới,vui mừng,0
+giàu,vui mừng,0
+nhỏ,xinh,0
+vui,duyên dáng,1
+vui,dễ thương,0
+chơi,tệ,0
+cao,xấu,1
+to,kinh khủng,0
+đẹp,chán nản,1
+cao,vui mừng,1
+to,chán nản,1
+mới,nhỏ,0
+xấu,duyên dáng,1
+học,bé,1
+nhỏ,thấp,1
+to,u sầu,0
+sáng,dễ thương,1
+học,chán nản,1
+đẹp,lùn,0
+vui,bé nhỏ,1
+mới,kinh khủng,1
+học,xấu xí,0
+to,nhỏ,0
+mới,buồn,1
+to,vui vẻ,1
+vui,bé nhỏ,0
+sáng,chán nản,1
+cao,u sầu,1
+buồn,chán nản,0
+vui,mini,1
+xấu,chán nản,1
+giàu,hạnh phúc,1
+mới,duyên dáng,1
+cao,vui mừng,1
+thật,nhỏ,1
+vui,đáng sợ,1
+vui,chán nản,0
+nhỏ,kinh khủng,1
+buồn,hạnh phúc,0
+to,kinh khủng,1
+đẹp,hạnh phúc,0
+vui,tệ,1
+cao,xấu,0
+xấu,vui vẻ,0
+buồn,buồn,0
+xấu,vui mừng,1
+sáng,đáng sợ,1
+đẹp,lùn,1
+sáng,xinh,0
+sáng,phấn khởi,0
+cao,tệ,1
+xấu,vui vẻ,1
+nhỏ,vui mừng,1
+buồn,bé,0
+buồn,buồn,0
+nhỏ,nhỏ,1
+vui,kinh khủng,1
+mạnh,kinh khủng,1
+chơi,đau khổ,0
+học,đáng sợ,0
+mới,xinh,1
+mạnh,tệ,1
+cao,buồn,0
+vui,vui mừng,0
+nóng,tệ,1
+cao,xấu,1
+buồn,kinh khủng,1
+giàu,đau khổ,0
+mạnh,tệ,1
+cao,xấu xí,0
+to,chán nản,1
+mạnh,u sầu,1
+to,xấu xí,1
+học,dễ thương,1
+chơi,u sầu,1
+mạnh,buồn,0
+đẹp,đáng sợ,1
+buồn,xấu xí,0
+mạnh,bé nhỏ,1
+sáng,bé nhỏ,1
+to,hạnh phúc,1
+chơi,phấn khởi,0
+thật,hạnh phúc,0
+nóng,buồn,1
+vui,buồn,1
+buồn,dễ thương,0
+nóng,lùn,1
+to,kinh khủng,1
+đẹp,chán nản,0
+giàu,xấu,0
+vui,đáng sợ,1
+đẹp,phấn khởi,0
+buồn,buồn,1
+vui,bé nhỏ,0
+vui,kinh khủng,0
+giàu,kinh khủng,1
+to,mini,1
+thật,đáng sợ,1
+đẹp,tuyệt vọng,0
+nhỏ,thấp,1
+mới,dễ thương,1
+sáng,kinh khủng,1
+thật,u sầu,0
+thấp,đáng sợ,1
+vui,tuyệt vọng,0
+sáng,đau khổ,1
+to,bé nhỏ,1
+mạnh,bé,1
+sáng,bé,0
+đẹp,lùn,1
+cao,dễ thương,1
+to,xấu,1
+mạnh,u sầu,0
+vui,xấu,1
+cao,vui mừng,0
+to,bé nhỏ,0
+cao,vui vẻ,0
+học,đáng sợ,0
+cao,thấp,1
+vui,thấp,1
+nóng,thấp,1
+học,kinh khủng,0
+vui,bé,1
+giàu,đau khổ,1
+học,hạnh phúc,1
+nóng,chán nản,0
+vui,vui vẻ,0
+buồn,tệ,0
+đẹp,hạnh phúc,0
+đẹp,tuyệt vọng,0
+nóng,thấp,1
+vui,nhỏ,0
+đẹp,mini,1
+thật,tệ,0
+thật,vui mừng,1
+to,vui mừng,1
+đẹp,xinh,1
+chơi,kinh khủng,1
+đẹp,chán nản,1
+chơi,tuyệt vọng,0
+mới,chán nản,1
+buồn,phấn khởi,1
+cao,tuyệt vọng,1
+to,đáng sợ,1
+cao,lùn,1
+to,lùn,0
+đẹp,nhỏ,0
+to,kinh khủng,0
+cao,đáng sợ,1
+đẹp,xinh,1
+chơi,u sầu,1
+vui,vui vẻ,0
+thấp,phấn khởi,1
+to,bé,0
+to,lùn,1
+đẹp,phấn khởi,1
+buồn,tuyệt vọng,1
+nhỏ,vui mừng,0
+cao,chán nản,1
+đẹp,chán nản,0
+thấp,tuyệt vọng,1
+thật,đáng sợ,0
+nóng,nhỏ,0
+thấp,mini,0
+cao,vui vẻ,1
+nóng,duyên dáng,1
+mạnh,kinh khủng,1
+buồn,duyên dáng,1
+đẹp,hạnh phúc,1
+to,bé,0
+học,thấp,0
+nhỏ,tệ,1
+vui,xấu xí,1
+sáng,tệ,0
+học,mini,1
+xấu,buồn,0
+vui,bé,0
+đẹp,phấn khởi,0
+đẹp,phấn khởi,1
+đẹp,vui vẻ,1
+thấp,xấu,1
+đẹp,kinh khủng,1
+học,kinh khủng,1
+thật,bé,1
+nhỏ,tuyệt vọng,0
+chơi,u sầu,1
+sáng,duyên dáng,0
+đẹp,bé,0
+học,chán nản,0
+giàu,đáng sợ,1
+nhỏ,tuyệt vọng,1
+cao,tệ,1
+thấp,lùn,1
+vui,lùn,1
+đẹp,đau khổ,1
+vui,buồn,0
+vui,lùn,0
+mới,buồn,1
+nóng,hạnh phúc,1
+mạnh,bé nhỏ,0
+mạnh,thấp,1
+cao,hạnh phúc,0
+đẹp,thấp,1
+cao,lùn,1
+đẹp,mini,0
+thấp,bé nhỏ,1
+đẹp,mini,0
+thấp,chán nản,0
+mới,xinh đẹp,1
+xấu,lùn,1
+mới,xinh đẹp,1
+sáng,đau khổ,1
+thật,nhỏ,0
+cao,kinh khủng,1
+mạnh,đáng sợ,0
+nóng,duyên dáng,1
+cao,nhỏ,0
+đẹp,chán nản,0
+sáng,lùn,0
+thấp,tệ,1
+đẹp,tuyệt vọng,1
+chơi,vui vẻ,1
+to,xấu xí,1
+buồn,bé,0
+buồn,hạnh phúc,0
+đẹp,xinh,1
+thấp,duyên dáng,1
+thật,xấu,1
+mạnh,vui mừng,1
+học,đáng sợ,0
+mạnh,chán nản,0
+cao,chán nản,1
+giàu,vui mừng,0
+chơi,u sầu,1
+nóng,hạnh phúc,0
+đẹp,mini,0
+sáng,xấu xí,1
+xấu,tệ,1
+học,duyên dáng,1
+to,xinh,1
+nhỏ,thấp,1
+to,lùn,0
+học,tệ,1
+vui,duyên dáng,1
+xấu,đáng sợ,1
+đẹp,vui vẻ,0
+học,tuyệt vọng,1
+cao,thấp,0
+mạnh,vui vẻ,0
+vui,tệ,1
+mới,lùn,0
+đẹp,vui mừng,1
+vui,đau khổ,1
+thấp,thấp,1
+to,đáng sợ,0
+mới,nhỏ,1
+vui,bé,1
+học,nhỏ,1
+thấp,mini,1
+mới,kinh khủng,0
+đẹp,bé,1
+học,kinh khủng,1
+thấp,kinh khủng,1
+sáng,chán nản,0
+giàu,bé nhỏ,0
+cao,đáng sợ,0
+đẹp,hạnh phúc,0
+chơi,dễ thương,1
+mới,buồn,1
+to,lùn,1
+mới,kinh khủng,1
+buồn,mini,0
+to,kinh khủng,0
+cao,đáng sợ,0
+to,kinh khủng,1
+đẹp,duyên dáng,1
+nhỏ,chán nản,0
+giàu,tệ,0
+mới,xấu xí,0
+giàu,chán nản,1
+vui,tuyệt vọng,1
+xấu,tệ,1
+học,hạnh phúc,1
+buồn,chán nản,0
+cao,buồn,0
+giàu,tuyệt vọng,0
+thấp,lùn,0
+cao,dễ thương,1
+thấp,u sầu,0
+mạnh,thấp,1
+buồn,xinh đẹp,0
+nhỏ,bé,1
+giàu,kinh khủng,0
+giàu,đáng sợ,1
+to,xấu,1
+nóng,buồn,0
+nóng,mini,1
+vui,phấn khởi,0
+giàu,kinh khủng,1
+thấp,hạnh phúc,0
+học,bé,1
+chơi,kinh khủng,1
+to,chán nản,0
+cao,đáng sợ,0
+nhỏ,bé nhỏ,1
+mạnh,đau khổ,0
+chơi,kinh khủng,1
+đẹp,xinh,1
+thấp,xinh đẹp,0
+giàu,tuyệt vọng,0
+mạnh,duyên dáng,0
+to,xấu,1
+vui,xinh đẹp,0
+sáng,vui mừng,1
+mới,đáng sợ,1
+thật,xấu xí,0
+vui,nhỏ,0
+cao,u sầu,1
+đẹp,xinh đẹp,1
+to,hạnh phúc,0
+giàu,nhỏ,1
+vui,chán nản,0
+giàu,chán nản,1
+vui,vui mừng,0
+chơi,bé nhỏ,0
+buồn,đáng sợ,1
+nóng,lùn,0
+nhỏ,bé nhỏ,0
+giàu,bé nhỏ,0
+mạnh,thấp,0
+xấu,phấn khởi,1
+chơi,bé,1
+vui,kinh khủng,0
+sáng,mini,1
+mới,duyên dáng,0
+cao,buồn,1
+thật,tuyệt vọng,0
+chơi,tệ,1
+nóng,kinh khủng,0
+mạnh,tệ,1
+đẹp,duyên dáng,1
+nóng,buồn,0
+đẹp,bé nhỏ,0
+đẹp,lùn,1
+buồn,chán nản,0
+vui,hạnh phúc,0
+to,lùn,1
+mạnh,xấu xí,0
+cao,dễ thương,1
+học,xấu xí,1
+mạnh,tuyệt vọng,1
+giàu,chán nản,0
+cao,thấp,0
+to,xinh đẹp,1
+chơi,xấu xí,1
+to,chán nản,0
+to,đau khổ,0
+đẹp,xấu xí,1
+xấu,buồn,0
+nhỏ,lùn,1
+chơi,tệ,0
+mạnh,mini,0
+to,duyên dáng,0
+học,tuyệt vọng,1
+giàu,bé nhỏ,0
+đẹp,tuyệt vọng,1
+đẹp,hạnh phúc,0
+buồn,bé nhỏ,0
+sáng,chán nản,0
+vui,thấp,1
+vui,phấn khởi,1
+thật,kinh khủng,1
+xấu,tuyệt vọng,1
+mạnh,dễ thương,1
+sáng,chán nản,0
+đẹp,nhỏ,1
+vui,thấp,1
+xấu,bé nhỏ,0
+vui,hạnh phúc,1
+giàu,vui vẻ,0
+vui,bé,1
+mới,xấu xí,0
+cao,xấu,1
+mới,mini,0
+cao,chán nản,1
+to,kinh khủng,1
+nhỏ,u sầu,1
+cao,thấp,0
+vui,vui vẻ,1
+buồn,đáng sợ,1
+mới,xinh đẹp,1
+mới,mini,0
+to,chán nản,0
+giàu,bé nhỏ,1
+mạnh,duyên dáng,1
+học,dễ thương,1
+nóng,vui mừng,0
+đẹp,chán nản,1
+to,hạnh phúc,1
+thấp,xinh,0
+vui,bé nhỏ,1
+vui,u sầu,0
+chơi,thấp,1
+mạnh,kinh khủng,0
+nóng,tuyệt vọng,0
+đẹp,vui mừng,0
+giàu,bé,1
+nhỏ,bé,0
+vui,tuyệt vọng,1
+cao,xinh đẹp,0
+cao,đau khổ,0
+học,xấu xí,0
+vui,buồn,1
+thấp,dễ thương,0
+buồn,mini,1
+mới,mini,1
+mạnh,phấn khởi,0
+thấp,buồn,1
+thật,duyên dáng,0
+xấu,tệ,0
+vui,kinh khủng,1
+cao,mini,1
+nóng,mini,1
+vui,đau khổ,1
+chơi,kinh khủng,0
+đẹp,tuyệt vọng,1
+to,vui mừng,0
+to,thấp,0
+vui,đáng sợ,1
+mạnh,bé nhỏ,1
+đẹp,buồn,0
+mạnh,phấn khởi,1
+nhỏ,tệ,0
+thấp,kinh khủng,1
+học,tuyệt vọng,0
+mới,xấu xí,0
+buồn,chán nản,1
+thật,thấp,0
+buồn,xấu xí,1
+đẹp,tuyệt vọng,0
+thấp,thấp,1
+to,buồn,0
+xấu,chán nản,1
+nhỏ,lùn,1
+buồn,vui mừng,0
+chơi,chán nản,0
+mạnh,kinh khủng,0
+nóng,đáng sợ,1
+mới,nhỏ,1
+cao,lùn,0
+thật,thấp,1
+sáng,bé nhỏ,0
+thật,lùn,0
+cao,vui vẻ,1
+học,vui mừng,1
+to,xấu xí,1
+to,nhỏ,1
+học,u sầu,0
+to,nhỏ,0
+thật,kinh khủng,0
+cao,tệ,0
+vui,tuyệt vọng,0
+buồn,dễ thương,0
+thấp,dễ thương,0
+to,bé nhỏ,0
+to,lùn,1
+mới,phấn khởi,0
+đẹp,tệ,1
+vui,chán nản,0
+to,đáng sợ,0
+giàu,u sầu,0
+chơi,tệ,1
+thấp,tuyệt vọng,0
+chơi,lùn,1
+đẹp,hạnh phúc,1
+đẹp,xấu xí,1
+chơi,xinh đẹp,0
+xấu,kinh khủng,1
+cao,chán nản,1
+đẹp,đau khổ,1
+giàu,u sầu,0
+vui,lùn,0
+nóng,hạnh phúc,1
+xấu,u sầu,1
+to,kinh khủng,1
+vui,kinh khủng,0
+nóng,hạnh phúc,0
+thật,xinh đẹp,0
+học,u sầu,0
+đẹp,xấu xí,0
+vui,mini,1
+nhỏ,bé,0
+vui,buồn,0
+sáng,bé nhỏ,0
+xấu,chán nản,0
+đẹp,thấp,1
+mới,u sầu,0
+vui,vui vẻ,1
+vui,chán nản,0
+học,mini,1
+buồn,chán nản,0
+chơi,vui vẻ,1
+sáng,kinh khủng,1
+đẹp,bé,1
+đẹp,u sầu,0
+to,nhỏ,1
+cao,xinh,1
+mới,kinh khủng,1
+vui,thấp,1
+mới,vui vẻ,1
+học,vui vẻ,1
+sáng,xinh đẹp,1
+mới,mini,1
+mạnh,buồn,0
+sáng,lùn,1
